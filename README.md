@@ -8,7 +8,7 @@
   
 </p>
 
-## nodejs index.js
+## index.js
 
 ```ts
 #!/usr/bin/env node
