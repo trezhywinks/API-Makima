@@ -2,18 +2,13 @@
 <p>
  Una simple API devuelve más de 100 imágenes de cosplay de makima
   <br><br>
-  Aquí está el enlace para usar en cualquier lugar
+  Aquí está el enlace para usar en cualquier lugar 
+ 
+**[URL-1](https://raw.githubusercontent.com/trezhywinks/API-Makima/refs/heads/main/makima.json) makima.json Github**
   
 </p>
 
 ## nodejs index.js
-
-```ts
-touch index.js
-```
-```ts
-chmod +x index.js
-```
 
 ```ts
 #!/usr/bin/env node
